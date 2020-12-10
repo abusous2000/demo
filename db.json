@@ -5,7 +5,7 @@
     { "id": 3, "bookName": "Adventures of Joe Finn", "bookUnitPrice":25.30, "bookCategoryID":2, "resourceId":3}
   ],
   "categories": [
-    {"id", 1, "categoryName":"Educational Books","categoryDesc":"Educational Books Desc"},
+    {"id": 1, "categoryName":"Educational Books","categoryDesc":"Educational Books Desc"},
     {"id": 2, "categoryName":"Novels","categoryDesc":"Novels Desc"},
     {"id": 3, "categoryName":"Other Books","categoryDesc":"Non Categorized Books"}
   ]
