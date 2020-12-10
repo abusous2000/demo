@@ -1,7 +1,7 @@
 {
   "books": [
-    { "bookID": 1, "bookName": "Java Programming Book", "bookUnitPrice":10.50, "bookCategoryID":1, "resourceId":1},
-    { "bookID": 2, "bookName": "Mathematics", "bookUnitPrice":19.10, "bookCategoryID":1, "resourceId":2},
-    { "bookID": 3, "bookName": "Adventures of Joe Finn", "bookUnitPrice":25.30, "bookCategoryID":2, "resourceId":3}
+    { "id": 1, "bookName": "Java Programming Book", "bookUnitPrice":10.50, "bookCategoryID":1, "resourceId":1},
+    { "id": 2, "bookName": "Mathematics", "bookUnitPrice":19.10, "bookCategoryID":1, "resourceId":2},
+    { "id": 3, "bookName": "Adventures of Joe Finn", "bookUnitPrice":25.30, "bookCategoryID":2, "resourceId":3}
   ]
 }
