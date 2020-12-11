@@ -1,8 +1,17 @@
 {
   "books": [
     { "id": 1, "bookName": "Java Programming Book", "bookUnitPrice":10.50, "bookCategoryID":1, "resourceId":1},
-    { "id": 2, "bookName": "Mathematics", "bookUnitPrice":19.10, "bookCategoryID":1, "resourceId":2},
-    { "id": 3, "bookName": "Adventures of Joe Finn", "bookUnitPrice":25.30, "bookCategoryID":2, "resourceId":3}
+    { "id": 2, "bookName": "Mathematics", "bookUnitPrice":89.10, "bookCategoryID":1, "resourceId":2},
+    { "id": 3, "bookName": "Adventures of Joe Finn", "bookUnitPrice":15.30, "bookCategoryID":2, "resourceId":3},
+    { "id": 4, "bookName": "The Hound the New York", "bookUnitPrice":30.50, "bookCategoryID":1, "resourceId":1},
+    { "id": 5, "bookName": "Astrology", "bookUnitPrice":39.10, "bookCategoryID":1, "resourceId":2},
+    { "id": 6, "bookName": "Arc of Witches", "bookUnitPrice":65.30, "bookCategoryID":2, "resourceId":3},
+    { "id": 7, "bookName": "Can I Run?", "bookUnitPrice":70.50, "bookCategoryID":1, "resourceId":1},
+    { "id": 8, "bookName": "Basic of Physics", "bookUnitPrice":59.10, "bookCategoryID":1, "resourceId":2},
+    { "id": 9, "bookName": "Universe from nothing", "bookUnitPrice":35.30, "bookCategoryID":2, "resourceId":3}
+    { "id": 10,"bookName": "C# for experts", "bookUnitPrice":14.50, "bookCategoryID":1, "resourceId":1},
+    { "id": 12,"bookName": "Android for fools", "bookUnitPrice":14.10, "bookCategoryID":1, "resourceId":2},
+    { "id": 13,"bookName": "Hello world", "bookUnitPrice":15.30, "bookCategoryID":2, "resourceId":3}
   ],
   "categories": [
     {"id": 1, "categoryName":"Educational Books","categoryDesc":"Educational Books Desc"},
