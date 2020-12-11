@@ -11,7 +11,7 @@
     { "id": 9, "bookName": "Universe from nothing", "bookUnitPrice":35.30, "bookCategoryID":2, "resourceId":2},
     { "id": 10,"bookName": "C++ for experts", "bookUnitPrice":14.50, "bookCategoryID":2, "resourceId":0},
     { "id": 12,"bookName": "Android for fools", "bookUnitPrice":14.10, "bookCategoryID":1, "resourceId":1},
-    { "id": 13,"bookName": "Hello world", "bookUnitPrice":15.30, "bookCategoryID":2, "resourceId":2}
+    { "id": 13,"bookName": "Hello world", "bookUnitPrice":15.30, "bookCategoryID":3, "resourceId":2}
   ],
   "categories": [
     {"id": 1, "categoryName":"Educational Books","categoryDesc":"Educational Books Desc"},
