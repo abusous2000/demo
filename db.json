@@ -25,8 +25,8 @@
   "categories": [
     {"id": 1, "categoryName":"Educational Books","categoryDesc":"Educational Books Desc"},
     {"id": 2, "categoryName":"Novels","categoryDesc":"Novels Desc"},
-    {"id": 3, "categoryName":"Other Books","categoryDesc":"Non Categorized Books"}
-    {"id": 4, "categoryName":"Fiction","categoryDesc":"Fiction Books"}
+    {"id": 3, "categoryName":"Other Books","categoryDesc":"Non Categorized Books"},
+    {"id": 4, "categoryName":"Fiction","categoryDesc":"Fiction Books"},
     {"id": 5, "categoryName":"Cryption","categoryDesc":"Cryption Books"}
   ]
 }
